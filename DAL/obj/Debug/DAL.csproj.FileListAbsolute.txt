@@ -1,0 +1,9 @@
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DAL\bin\Debug\DAL.dll
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DAL\bin\Debug\DAL.pdb
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DAL\bin\Debug\DTO.dll
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DAL\bin\Debug\DTO.pdb
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DAL\obj\Debug\DAL.dll
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DAL\obj\Debug\DAL.pdb

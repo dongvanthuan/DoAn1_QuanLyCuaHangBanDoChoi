@@ -1,0 +1,6 @@
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DTO\bin\Debug\DTO.dll
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DTO\bin\Debug\DTO.pdb
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DTO\obj\Debug\DTO.dll
+E:\Đồ Án 1\LTWF\pr_quanlycuahangbandochoi\DTO\obj\Debug\DTO.pdb
